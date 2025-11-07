@@ -108,19 +108,24 @@ AI-powered multilingual financial literacy application with voice interaction in
 
 ---
 
-### 🔷 Smart Contracts Portfolio
+### 🔷 Climate_Plan AI
 
 **Tech Stack:**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=flat-square&logo=truffle&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-009999?style=flat-square&logo=lora&logoColor=white)
 
 **Description:**  
-Comprehensive collection of Ethereum smart contracts for DeFi applications with ERC-20/ERC-721 implementations, comprehensive testing, and automated deployment scripts.
+Traditional satellite / city‑station data is too coarse to spot a fire spark, toxic plume, or heat‑stroke hotspot on your block.
+Our solution plants low‑cost sensor nodes every 100–250 m, streams the data, and lets AI tell each user—or an entire enterprise—exactly what to do next.
 
-🔗 **[View Repository](https://github.com/iceman2100/smart-contracts)**
+🔗 **[View Repository](https://github.com/iceman2100/Climate_Planner_AI)**
 
 ---
 
