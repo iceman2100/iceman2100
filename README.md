@@ -2,7 +2,7 @@
 
 <img src="./AnibroTried.gif" alt="Avatar" align="right" width="350" height="350"/>
 
- # ** Hi, I'm Anirudh Manda 👋
+# **Hi, I'm Anirudh Manda** 👋
 
 **Full-Stack Developer | Blockchain Developer | Can code without AI**
 
@@ -10,7 +10,7 @@
 
 Building innovative solutions with modern technologies
 
-<br clear="right"/>
+<br/><br/><br/>
 
 <a href="https://www.linkedin.com/in/anirudh-manda-186532309/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,11 +22,16 @@ Building innovative solutions with modern technologies
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<br clear="right"/>
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+
+---
+
+##  Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -61,7 +66,7 @@ Building innovative solutions with modern technologies
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -73,7 +78,7 @@ Building innovative solutions with modern technologies
 
 ---
 
-## 🚀 Main Projects
+##  Main Projects
 
 > *These are my primary projects showcasing blockchain development, AI/ML, and full-stack engineering*
 
