@@ -7,13 +7,9 @@
 
 Building innovative solutions with modern technologies
 
-</div>
+<img src="./AnibroTried.gif" alt="Avatar" width="350" height="350" style="max-width: 100%; height: auto; border-radius: 10px; margin-top: 20px;"/>
 
-<div align="center">
-  <img src="./AnibroTried.gif" alt="Avatar" width="350" height="350" style="max-width: 100%; height: auto; border-radius: 10px; margin-top: 20px;"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
+<br/>
 
 <a href="https://www.linkedin.com/in/anirudh-manda-186532309/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,6 +22,9 @@ Building innovative solutions with modern technologies
 </a>
 
 </div>
+
+<hr style="margin-top: 30px; margin-bottom: 30px;"/>
+
 
 
 ---
