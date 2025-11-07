@@ -1,7 +1,5 @@
 <div align="left">
 
-<img src="./AnibroTried.gif" alt="Avatar" align="right" width="350" height="350"/>
-
 # **Hi, I'm Anirudh Manda** 👋
 
 **Full-Stack Developer | Blockchain Developer | Can code without AI**
@@ -10,7 +8,7 @@
 
 Building innovative solutions with modern technologies
 
-<br/><br/><br/>
+<img src="./AnibroTried.gif" alt="Avatar" align="right" width="350" height="350"/>
 
 <a href="https://www.linkedin.com/in/anirudh-manda-186532309/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,6 +23,9 @@ Building innovative solutions with modern technologies
 <br clear="right"/>
 
 </div>
+
+---
+
 
 ---
 
