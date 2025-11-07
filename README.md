@@ -2,7 +2,7 @@
 
 <img src="./AnibroTried.gif" alt="Avatar" align="right" width="350" height="350"/>
 
-## Hi, I'm Anirudh Manda 👋
+ Hi, I'm Anirudh Manda 👋
 
 **Full-Stack Developer | Blockchain Developer | Can code without AI**
 
