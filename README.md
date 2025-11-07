@@ -17,9 +17,7 @@ Building innovative solutions with modern technologies
 <a href="https://x.com/ManTheAnirudh" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="https://github.com/iceman2100" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+
 
 </div>
 
@@ -79,18 +77,18 @@ Building innovative solutions with modern technologies
 
 ---
 
-### 🔷 StreamPay - Algorand Payment Streaming
+### 🔷 StreamFi_Project- Algorand Payment Streaming
 
 **Tech Stack:**  
 ![Algorand](https://img.shields.io/badge/Algorand-000000?style=flat-square&logo=algorand&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+
 
 **Description:**  
 Real-time cryptocurrency payment streaming platform built on Algorand blockchain with smart contract automation, continuous payment flows, and Docker-based deployment.
 
-🔗 **[View Repository](https://github.com/iceman2100/streampay-contracts)**
+🔗 **[View Repository](https://github.com/iceman2100/StreamFi_Project)**
 
 ---
 
@@ -101,7 +99,7 @@ Real-time cryptocurrency payment streaming platform built on Algorand blockchain
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+
 
 **Description:**  
 AI-powered multilingual financial literacy application with voice interaction in Hindi and English, real-time financial news integration, and RAG-based Q&A system.
