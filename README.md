@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=00FF00&center=true&vCenter=true&width=650&cursor=%7C&glow=2&glowColor=00FF00&lines=Hi%2C+I'm+Anirudh+Manda+👋;Full-Stack+Developer;Blockchain+Developer;Can+Code+Without+AI;I+use+Arch+btw+😏)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=00FF00&center=true&vCenter=true&width=650&cursor=%7C&glow=2&glowColor=00FF00&lines=Hi%2C+I'm+Anirudh+Manda+👋🏻;Full-Stack+Developer;Blockchain+Developer;Can+Code+Without+AI;I+use+Arch+btw+😏)](https://git.io/typing-svg)
 
 Building innovative solutions with modern technologies
 
