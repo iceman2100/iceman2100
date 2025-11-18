@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=00FF00&center=false&vCenter=true&width=450&cursor=%7C&lines=Hi%2C+I'm+Anirudh+Manda+👋🏻;Full-Stack+Developer;Blockchain+Developer;Can+Code+Without+AI;I+use+Arch+btw+😏"/>
     
-  <img width="30" height="30" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-hacker-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" alt="external-hacker-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev"/>
+  <img width="40" height="40" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-hacker-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" alt="external-hacker-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev"/>
   </a>
 
 
