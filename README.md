@@ -1,5 +1,6 @@
 <div align="center">
 <table style="border: none; border-collapse: collapse;">
+   
 <tr style="border: none;">
 <!-- LEFT SIDE (TEXT) -->
 <td style="vertical-align: top; width: 55%; padding-right: 40px; border: none;">
@@ -8,7 +9,7 @@
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=00FF00&center=false&vCenter=true&width=450&cursor=%7C&lines=Hi%2C+I'm+Anirudh+Manda+👋🏻;Full-Stack+Developer;Blockchain+Developer;Can+Code+Without+AI;I+use+Arch+btw+😏"/>
     
-  <img width="40" height="40" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-hacker-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" alt="external-hacker-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev"/>
+
   </a>
 
 
@@ -22,6 +23,7 @@
     <a href="https://www.linkedin.com/in/anirudh-manda-186532309/">
       <img src="https://img.icons8.com/bubbles/100/linkedin.png" width="55"/>
     </a>
+     <img width="50" height="50" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-hacker-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" alt="external-hacker-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev"/>
   </p>
 </div>
 
