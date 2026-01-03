@@ -40,6 +40,9 @@
 
 
 ---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iceman2100&label=PROFILE%20TRAFFIC&color=blueviolet&style=for-the-badge" />
+</div>
 
 ##  Tech Stack
 
@@ -140,5 +143,6 @@ Our solution plants low‑cost sensor nodes every 100–250 m, streams the d
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=iceman2100&theme=tokyo-night&hide_border=true)
 
 ### 💡 *"Building the future, one commit at a time"*
+---
 
 </div>
